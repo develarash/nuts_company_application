@@ -24,6 +24,7 @@ const Home = () => {
           <button className={styles.btn}>
           <span>See more</span>
           <BsArrowRight />
+          
         </button>
         </div> 
     
